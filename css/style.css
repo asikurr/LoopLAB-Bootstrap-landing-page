@@ -1,0 +1,31 @@
+body{
+    background: #333;
+    color: #fff;
+}
+.navbar{
+    border-bottom: 3px solid #008ed6;
+    opacity: .8;
+}
+#headr-section{
+    background-image:linear-gradient(rgba(16,29,44,.83),rgba(16,29,44,.83)), url(/images/home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+
+}
+.bg-color{
+    background-color: rgba(16,29,44,.5);
+}
+#headr-section .home-inner{
+   padding: 7rem 0;
+}
+
+#headr-section .card-form{
+    opacity: .9;
+}
+#headr-section .fas{
+    border: 1px solid #008ed6;
+    padding: .5rem;
+    color: #fff;
+    border-radius: 5px;
+}
